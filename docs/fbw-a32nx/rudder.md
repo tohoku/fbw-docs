@@ -24,7 +24,7 @@ Open **`Control Options`**, choose your pedals and click on the **`Sensitivity`*
 
 ### 2. Confirm Calibration
 
-Check that the mappings are correct. If you push the pedals forwards ("toe brakes"), the Joystick L-Axis X and Joystick L-Axis Y should move from top right (0% brakes applied) to bottom left (100% brakes applied).
+Check that the mappings are correct. If you push the pedals forwards ("toe brakes"), the Joystick L-Axis X and Joystick L-Axis Y indicators should move from top right (0% brakes applied) to bottom left (100% brakes applied).
 
 ![Rudder Sensitivity Settings](assets/rudder/ThrustmasterRudderSensitiviy.jpg "Rudder Sensitivity Settings"){loading=lazy}
 
@@ -38,9 +38,9 @@ If the Joystick L-Axis X/Y indicators only move from the center of the graphs to
 
 ??? note "Thrustmaster Drivers"
 
-You do not need to install the Unified Drivers Package - 2018.FFD.2
+You do not need to install the Unified Drivers Package - 2018.FFD.2 as these drivers will make the reset/calibration dialog unavailable.
 
-#### Calibrate/Reset
+#### Reset and Calibration
 
 1. From the Windows Start menu or the Control Panel, search for **`Set up USB game controllers`**.
 2. Your game controllers should be displayed. Select your pedals (i.e. **`T-Rudder`**) from the list. Click the **`Properties`** button. ![USB Controller Settings](assets/rudder/GameControllersThrustmaster.jpg "USB Controller Settings"){loading=lazy}
