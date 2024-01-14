@@ -45,4 +45,4 @@ You do not need to install the Unified Drivers Package - 2018.FFD.2 as these dri
 1. From the Windows Start menu or the Control Panel, search for **`Set up USB game controllers`**.
 2. Your game controllers should be displayed. Select your pedals (i.e. **`T-Rudder`**) from the list. Click the **`Properties`** button. ![USB Controller Settings](assets/rudder/GameControllersThrustmaster.jpg "USB Controller Settings"){loading=lazy}
 3. From the **`Settings`** tab, click on **`Reset to default`**.
-4. Click on **`Calibrate`** to confirm the settings. The cursor should be displayed in the bottom right corner, while the Z-Axis indicator should be at 50% if the rudder is centered. ![Calibrated Settings](assets/rudder/GameControllersRudderSettings.jpg "Calibrated Settings"){loading=lazy}
+4. Click on the **`Test`** tab to confirm the settings. The cursor should be displayed in the bottom right corner (0% brakes applied) or top left corner (100% brakes applied), while the Z-Axis indicator should be at 50% if the rudder is centered. ![Calibrated Settings](assets/rudder/GameControllersRudderSettings.jpg "Calibrated Settings"){loading=lazy}
