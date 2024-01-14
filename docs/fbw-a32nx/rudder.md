@@ -20,13 +20,13 @@ This guide will help you set up your pedals for use with the FlyByWire A32NX.
 
 Open **`Control Options`**, choose your pedals and click on the **`Sensitivity`** button.
 
-    ![Rudder Control Settings](../../assets/rudder/ThrustmasterRudderSettings.jpg "Rudder Control Settings"){loading=lazy}
+![Rudder Control Settings](../../assets/rudder/ThrustmasterRudderSettings.jpg "Rudder Control Settings"){loading=lazy}
 
 ### 2. Confirm Calibration
 
 Check that the mappings are correct. If you push the pedals forwards ("toe brakes"), the Joystick L-Axis X and Joystick L-Axis Y should move from top right (0% brakes applied) to bottom left (100% brakes applied).
 
-    ![Rudder Sensitivity Settings](../../assets/rudder/ThrustmasterRudderSensitiviy.jpg "Rudder Sensitivity Settings"){loading=lazy}
+![Rudder Sensitivity Settings](../../assets/rudder/ThrustmasterRudderSensitiviy.jpg "Rudder Sensitivity Settings"){loading=lazy}
 
 If the Joystick L-Axis X/Y indicators only move from the center of the graphs to the left bottom, you will need to calibrate your pedals.
 
