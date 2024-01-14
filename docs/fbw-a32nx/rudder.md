@@ -1,11 +1,11 @@
-# Rudder/Pedal Settings
+# Rudder Pedal Settings
 
 ## Introduction
 
 This guide will help you set up your pedals for use with the FlyByWire A32NX.
 
 
-??? note "Collection of Controllers and their Features"
+??? note "Collection of Rudder Pedal and their Features"
 
     | Controller                                |
     |:------------------------------------------|
